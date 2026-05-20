@@ -26,7 +26,7 @@ My name is Lee.
 
 **<H2>Want to know more?</H2>**
 **<H1>Profile</H1>**
-I accidentally fell into I.T. many years ago and have made a carreer of it! I started working with SQL Server in late 2009 as a report writer using SSRS. I was fascinated by the SQL Server engine underneath and quickly progressed to database administration. I found that I definitely liked that side of SQL Server a lot. I earned an MCTS on SQL Server 2008 and Spring of 2023 earned the Azure Fundamentals and Azure Data Fundamentals certifications. I love handling performance tuning and production troubleshooting. I love learning about new modern features in SQL Server and I really enjoy designing high availability solutions as well as the process of upgrdes and migrations.  
+I accidentally fell into I.T. many years ago and have made a career of it! I started working with SQL Server in late 2009 as a report writer using SSRS. I was fascinated by the SQL Server engine underneath and quickly progressed to database administration. I found that I definitely liked that side of SQL Server a lot. I earned an MCTS on SQL Server 2008 and Spring of 2023 earned the Azure Fundamentals and Azure Data Fundamentals certifications. I love handling performance tuning and production troubleshooting. I love learning about new modern features in SQL Server and I really enjoy designing high availability solutions as well as the process of upgrdes and migrations.  
 
 
 
